@@ -1,4 +1,4 @@
-# Ethereum + Hardhat App
+# Ethereum + Hardhat Dapp
 
 A full-stack ethereum dapp, with two smart contracts:
 - Greeting users, with the functionality to set a new greeting
